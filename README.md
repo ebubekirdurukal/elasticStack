@@ -1,1 +1,2 @@
 # elasticStack
+example readme
